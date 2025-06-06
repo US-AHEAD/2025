@@ -1,0 +1,11 @@
+kernels/
+*.xo
+*.xclbin
+host
+*.sh
+emconfig.json
+xclbin
+rename*
+*.txt
+*.bin
+*.debug
